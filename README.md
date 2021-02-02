@@ -8,3 +8,5 @@ Day 1 and day 2 completely solved.
 
 Encountered some problems with day 3 and time ran out, 
 so homework for all participants to fix it. ;)
+
+Fix for day3 in branch day3-fix.
