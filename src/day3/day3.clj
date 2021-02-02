@@ -24,6 +24,8 @@
     1
     (inc counter)))
 
+
+;; Fix for day 3 in branch day3-fix
 (defn day3part1
   {:test (fn []
            (is= (day3part1 ">") 0)
